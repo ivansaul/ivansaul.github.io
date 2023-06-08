@@ -1,0 +1,67 @@
+##########################
+##########################
+[education] ##############
+##########################
+##########################
+[education.1]
+title = "Universidad Nacional de Ingeniería - UNI"
+timeline = "2013 — 2018"
+description = "Facultad de Ingenieria Geológica, Minas y Metalurgica"
+
+[education.2]
+title = "CEPS - UNI"
+timeline = "2015 — 2016"
+description = "Programacion Orientada a Objetos con Python y C++"
+
+[education.3]
+title = "Bootcamp Python Web Scraping - Udemy"
+timeline = "2016 — 2017"
+description = "Completé un bootcamp especializado en técnicas de Web Scraping, Web Crawling y Web Automation. Durante el curso, adquirí habilidades en la extracción de datos de sitios web, la navegación automatizada y el análisis de contenido web utilizando Python, Selenium y BeautifulSoup."
+
+[education.4]
+title = "Flutter Móvil - Udemy"
+timeline = "Dic 2022 - Feb 2023"
+description = "Durante el curso adquirí conocimientos fundamentales sobre la arquitectura de Flutter, el diseño de interfaces de usuario y la implementación de funcionalidades interactivas para iOS y Android hasta su despliegue en las tiendas."
+
+[education.5]
+title = "Flutter State Managment Riverpod/Bloc"
+timeline = "Mar 2023 - En Curso"
+description = "Estoy dedicando tiempo y esfuerzo a estudiar y desarrollar habilidades en el manejo de estados utilizando las bibliotecas Riverpod y BloC en el contexto de Flutter."
+
+##########################
+##########################
+[experience] #############
+##########################
+##########################
+[experience.1]
+title = "Planeamiento Minero - Buenaventura"
+timeline = "2019 — 2020"
+description = "Desarrollo y creación de aplicaciones informática para automatización del manejo de bloques con python en minesight."
+
+[experience.2]
+title = "Planeamiento y Productividad - CIA Minera Volcan"
+timeline = "2021 — 2022"
+description = "Reduccion de costes en el consumo de explosivos."
+
+[experience.3]
+title = "Supervisor Operaciones Mina - Casapalca"
+timeline = "2021 — 2022"
+description = "Supervisor de operaciones en interior mina, zona cuerpos."
+
+
+##########################
+##########################
+[skill] #################
+##########################
+##########################
+[skill.1]
+title = "Flutter"
+value = "80%"
+
+[skill.2]
+title = "Python"
+value = "70%"
+
+[skill.3]
+title = "Adobe Illustrator"
+value = "80%"
