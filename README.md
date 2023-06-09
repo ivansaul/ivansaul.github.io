@@ -1,15 +1,15 @@
 # Personal Portfolio - Developer
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ivansaul/personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/ivansaul/personal-portfolio)
-![GitHub forks](https://img.shields.io/github/forks/ivansaul/personal-portfolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/ivansaul/ivansaul.github.io)
+![GitHub stars](https://img.shields.io/github/stars/ivansaul/ivansaul.github.io)
+![GitHub forks](https://img.shields.io/github/forks/ivansaul/ivansaul.github.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Jinja](https://github.com/ivansaul/personal-portfolio/actions/workflows/jinja.yml/badge.svg)](https://github.com/ivansaul/personal-portfolio/actions/workflows/jinja.yml)
+[![Jinja](https://github.com/ivansaul/ivansaul.github.io/actions/workflows/jinja.yml/badge.svg)](https://github.com/ivansaul/ivansaul.github.io/actions/workflows/jinja.yml)
 
 
 Personal - Portfolio is a fully responsive personal developer portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 
-Live Preview: 👉🏽 [personal-portfolio.githu.io](https://ivansaul.github.io/personal-portfolio/)
+Live Preview: 👉🏽 [personal-portfolio.githu.io](https://ivansaul.github.io)
 
 ## Demo
 ![Demo](https://raw.githubusercontent.com/ivansaul/demos/master/python/personal-portfolio-demo.gif)
@@ -100,5 +100,5 @@ This project is based on [vcard portfolio](vard). The main focus of this project
 MIT
 
 [vcard]: https://github.com/codewithsadee/vcard-personal-portfolio
-[devfolio]: https://ivansaul.github.io/personal-portfolio
+[devfolio]: https://ivansaul.github.io
 [demo]: https://raw.githubusercontent.com/ivansaul/demos/master/python/personal-portfolio-demo.gif
