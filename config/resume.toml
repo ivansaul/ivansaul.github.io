@@ -1,8 +1,7 @@
-##########################
-##########################
-[education] ##############
-##########################
-##########################
+############## Education config #################
+#################################################
+[education] 
+
 [education.1]
 title = "Universidad Nacional de Ingeniería - UNI"
 timeline = "2013 — 2018"
@@ -28,40 +27,73 @@ title = "Flutter State Managment Riverpod/Bloc"
 timeline = "Mar 2023 - En Curso"
 description = "Estoy dedicando tiempo y esfuerzo a estudiar y desarrollar habilidades en el manejo de estados utilizando las bibliotecas Riverpod y BloC en el contexto de Flutter."
 
-##########################
-##########################
-[experience] #############
-##########################
-##########################
+############# Experience config #################
+#################################################
+[experience] 
 [experience.1]
 title = "Planeamiento Minero - Buenaventura"
-timeline = "2019 — 2020"
-description = "Desarrollo y creación de aplicaciones informática para automatización del manejo de bloques con python en minesight."
+timeline = "Nov 2018 — Ago 2019"
+description = "Desarrollé y creé aplicaciones informáticas con Python en el software minero Minesight para automatizar el manejo de bloques. Mejora de la eficiencia y precisión en la planificación minera, reducción de tiempos de procesamiento y minimización de errores humanos."
 
 [experience.2]
 title = "Planeamiento y Productividad - CIA Minera Volcan"
-timeline = "2021 — 2022"
-description = "Reduccion de costes en el consumo de explosivos."
+timeline = "Set 2019 — Set 2021"
+description = "Durante mi tiempo en la empresa, desempeñé un papel clave en la reducción de costes mediante la implementación de medidas efectivas para disminuir el consumo de explosivos en las operaciones mineras. Mi enfoque se centró en la optimización de los procesos de voladura, aplicando técnicas innovadoras y estrategias eficientes."
 
 [experience.3]
 title = "Supervisor Operaciones Mina - Casapalca"
-timeline = "2021 — 2022"
-description = "Supervisor de operaciones en interior mina, zona cuerpos."
+timeline = "Oct 2021 — Ene 2023"
+description = "En mi rol como Supervisor de Operaciones en el interior mina, tuve la responsabilidad de liderar y coordinar las actividades diarias del equipo de trabajadores bajo mi supervisión. Trabajé en estrecha colaboración con el personal de producción para garantizar un funcionamiento eficiente y seguro de las operaciones mineras."
 
 
-##########################
-##########################
-[skill] #################
-##########################
-##########################
-[skill.1]
+############## Skills config ####################
+#################################################
+[skills] 
+title = "My Skills"
+enabled = true
+show_bar = false
+show_value = false
+
+[[skill]]
 title = "Flutter"
-value = "80%"
+value = "60%"
 
-[skill.2]
+[[skill]]
 title = "Python"
 value = "70%"
 
-[skill.3]
+[[skill]]
+title = "Git"
+value = "65%"
+
+[[skill]]
+title = "Dart"
+value = "60%"
+
+[[skill]]
+title = "HTML/CSS"
+value = "60%"
+
+[[skill]]
+title = "Figma"
+value = "60%"
+
+[[skill]]
 title = "Adobe Illustrator"
+value = "70%"
+
+############## Language config ##################
+#################################################
+[languages]
+title = "Languages"
+enabled = true
+show_bar = false
+show_value = false
+
+[[language]]
+title = "Ingles"
+value = "60%"
+
+[[language]]
+title = "Quechua"
 value = "80%"
