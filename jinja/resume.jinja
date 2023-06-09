@@ -17,7 +17,7 @@
 
     <ol class="timeline-list">
 
-      {% for education in resume.education.values() | reverse %}
+      {% for education in resume.education | reverse %}
 
       <li class="timeline-item">
 
@@ -49,7 +49,7 @@
 
     <ol class="timeline-list">
 
-      {% for experience in resume.experience.values() | reverse %}
+      {% for experience in resume.experience | reverse %}
 
       <li class="timeline-item">
 

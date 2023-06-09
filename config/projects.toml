@@ -1,52 +1,52 @@
-[project1]
+[[project]]
+title = "Flutter Coffee Shop App"
+category = "Mobile development"
+image = "./config/assets/projects/flutter_coffee_shop_app.png"
+url = "https://github.com/ivansaul/flutter_coffee_shop_app#screens"
+
+[[project]]
 title = "Flutter Todo App"
 category = "Mobile development"
-image = "./config/assets/projects/project-2.png"
+image = "./config/assets/projects/flutter_todo_app.png"
 url = "https://github.com/ivansaul/flutter_todo_app#screens"
 
-[project2]
-title = "Codigo Facilito Downloader"
-category = "Python Scripting"
-image = "./config/assets/projects/project-1.jpg"
-url = "https://github.com/ivansaul/codigo_facilito_downloader"
-
-[project3]
-title = "Fundo"
-category = "Web design"
-image = "./config/assets/projects/project-3.jpg"
+[[project]]
+title = "Flutter Travel News App"
+category = "Mobile development"
+image = "./config/assets/projects/flutter_travel_news_app.png"
 url = "https://github.com/ivansaul/flutter_travel_news_app#screens"
 
-[project4]
-title = "Brawlhalla"
-category = "Applications"
-image = "./config/assets/projects/project-4.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screens"
+[[project]]
+title = "Codigo Facilito Downloader"
+category = "Python Scripting"
+image = "./config/assets/projects/codigo_facilito_downloader.png"
+url = "https://github.com/ivansaul/codigo_facilito_downloader"
 
-[project5]
+[[project]]
 title = "DSM."
 category = "Web design"
 image = "./config/assets/projects/project-5.png"
 url = "https://github.com/ivansaul/codigo_facilito_downloader"
 
-[project6]
+[[project]]
 title = "MetaSpark"
 category = "Web design"
 image = "./config/assets/projects/project-6.png"
 url = "https://github.com/ivansaul/flutter_todo_app"
 
-[project7]
+[[project]]
 title = "Summary"
 category = "Web development"
 image = "./config/assets/projects/project-7.png"
 url = "https://github.com/ivansaul/flutter_todo_app"
 
-[project8]
+[[project]]
 title = "Task Manager"
 category = "Applications"
 image = "./config/assets/projects/project-8.jpg"
 url = "https://github.com/ivansaul/flutter_todo_app"
 
-[project9]
+[[project]]
 title = "Arrival"
 category = "Web development"
 image = "./config/assets/projects/project-9.png"
