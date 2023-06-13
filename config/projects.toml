@@ -7,23 +7,23 @@ url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
 [[project]]
 title = "Flutter Coffee Shop App"
 category = "Mobile development"
-image = "./config/assets/projects/flutter_coffee_shop_app.png"
+image = "https://imgur.com/2nNXhDN.png"
 url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
 
 [[project]]
 title = "Flutter Todo App"
 category = "Mobile development"
-image = "./config/assets/projects/flutter_todo_app.png"
+image = "https://imgur.com/7110Lj1.png"
 url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
 
 [[project]]
 title = "Flutter Travel News App"
 category = "Mobile development"
-image = "./config/assets/projects/flutter_travel_news_app.png"
+image = "https://imgur.com/t5T5Ixa.png"
 url = "https://github.com/ivansaul/flutter_travel_news_app#screenshots"
 
 [[project]]
 title = "Codigo Facilito Downloader"
 category = "Python Scripting"
-image = "./config/assets/projects/codigo_facilito_downloader.png"
+image = "https://imgur.com/t4NWtPE.png"
 url = "https://github.com/ivansaul/codigo_facilito_downloader"
