@@ -1,53 +1,29 @@
 [[project]]
+title = "Flutter Cinemapedia App"
+category = "Mobile development"
+image = "https://i.imgur.com/ANDVQ4o.png"
+url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+
+[[project]]
 title = "Flutter Coffee Shop App"
 category = "Mobile development"
 image = "./config/assets/projects/flutter_coffee_shop_app.png"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screens"
+url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
 
 [[project]]
 title = "Flutter Todo App"
 category = "Mobile development"
 image = "./config/assets/projects/flutter_todo_app.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screens"
+url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
 
 [[project]]
 title = "Flutter Travel News App"
 category = "Mobile development"
 image = "./config/assets/projects/flutter_travel_news_app.png"
-url = "https://github.com/ivansaul/flutter_travel_news_app#screens"
+url = "https://github.com/ivansaul/flutter_travel_news_app#screenshots"
 
 [[project]]
 title = "Codigo Facilito Downloader"
 category = "Python Scripting"
 image = "./config/assets/projects/codigo_facilito_downloader.png"
 url = "https://github.com/ivansaul/codigo_facilito_downloader"
-
-[[project]]
-title = "DSM."
-category = "Web design"
-image = "./config/assets/projects/project-5.png"
-url = "https://github.com/ivansaul/codigo_facilito_downloader"
-
-[[project]]
-title = "MetaSpark"
-category = "Web design"
-image = "./config/assets/projects/project-6.png"
-url = "https://github.com/ivansaul/flutter_todo_app"
-
-[[project]]
-title = "Summary"
-category = "Web development"
-image = "./config/assets/projects/project-7.png"
-url = "https://github.com/ivansaul/flutter_todo_app"
-
-[[project]]
-title = "Task Manager"
-category = "Applications"
-image = "./config/assets/projects/project-8.jpg"
-url = "https://github.com/ivansaul/flutter_todo_app"
-
-[[project]]
-title = "Arrival"
-category = "Web development"
-image = "./config/assets/projects/project-9.png"
-url = "https://github.com/ivansaul/flutter_todo_app"
