@@ -5,6 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/ivansaul/ivansaul.github.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Jinja](https://github.com/ivansaul/ivansaul.github.io/actions/workflows/jinja.yml/badge.svg)](https://github.com/ivansaul/ivansaul.github.io/actions/workflows/jinja.yml)
+[![Discord](https://img.shields.io/badge/-Discord-424549?style=social&logo=discord)](https://discord.gg/b72uAVBz6b)
 
 
 Personal - Portfolio is a fully responsive personal developer portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
@@ -90,7 +91,7 @@ Your personal portfolio will be built and updated automatically whenever any cha
 ![Mobile Demo](https://i.imgur.com/G1A1nBu.pngg "Mobile Demo")
 
 ## Contact
-If you want to contact me you can reach me at [Instagram](#).
+If you want to contact me you can reach me at [Discord][discord].
 
 ## Credits
 This project is based on [vcard portfolio](vard). The main focus of this project is adding new features and make it accessible to everyone.
@@ -102,3 +103,5 @@ MIT
 [vcard]: https://github.com/codewithsadee/vcard-personal-portfolio
 [devfolio]: https://ivansaul.github.io
 [demo]: https://raw.githubusercontent.com/ivansaul/demos/master/python/personal-portfolio-demo.gif
+[discord]: https://discord.com/users/744755977684779038
+[discord-server]: https://discord.gg/b72uAVBz6b
