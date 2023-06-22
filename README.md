@@ -1,16 +1,27 @@
-# Personal Portfolio - Developer
+<div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ivansaul/ivansaul.github.io)
-![GitHub stars](https://img.shields.io/github/stars/ivansaul/ivansaul.github.io)
-![GitHub forks](https://img.shields.io/github/forks/ivansaul/ivansaul.github.io)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Jinja](https://github.com/ivansaul/ivansaul.github.io/actions/workflows/jinja.yml/badge.svg)](https://github.com/ivansaul/ivansaul.github.io/actions/workflows/jinja.yml)
-[![Discord](https://img.shields.io/badge/-Discord-424549?style=social&logo=discord)](https://discord.gg/b72uAVBz6b)
-
+<h1 style="border-bottom: none">
+    <b><a href="#">Personal Portfolio - Developer</a></b>
+</h1>
 
 Personal - Portfolio is a fully responsive personal developer portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 
-Live Preview: 👉🏽 [personal-portfolio.githu.io](https://ivansaul.github.io)
+Live Preview: 👉🏽 [ivansaul.githu.io](https://ivansaul.github.io)
+
+![Made-with-python](https://img.shields.io/badge/Made%20with-Python-orange)
+[![Jinja](https://github.com/ivansaul/ivansaul.github.io/actions/workflows/jinja.yml/badge.svg)](https://github.com/ivansaul/ivansaul.github.io/actions/workflows/jinja.yml)
+![GitHub repo size](https://img.shields.io/github/repo-size/ivansaul/ivansaul.github.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Discord](https://img.shields.io/badge/-Discord-424549?style=social&logo=discord)](https://discord.gg/b72uAVBz6b)
+
+### Don't forget to ⭐ the repo
+
+![GitHub stars](https://img.shields.io/github/stars/ivansaul/ivansaul.github.io?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ivansaul/ivansaul.github.io?style=social) 
+
+</div>
+
+---
 
 ## Demo
 ![Demo](https://raw.githubusercontent.com/ivansaul/demos/master/python/personal-portfolio-demo.gif)
