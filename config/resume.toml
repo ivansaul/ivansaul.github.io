@@ -45,7 +45,7 @@ description = "In my role as a Mine Operations Supervisor, I had the responsibil
 [[experience]]
 title = "Junior Flutter Developer - NOA Experience Colombia"
 timeline = "May 2023 — Present"
-description = "Since joining NOA Experience as a Junior Flutter Developer, I've been on an exciting journey of growth. I've actively participated in developing innovative mobile applications, honing my skills in Flutter, Dart, and other state-of-the-art technologies. My tasks have included crafting intuitive user interfaces, implementing intricate features, and collaborating seamlessly with a dynamic team to solve real-world challenges. This role has been a valuable opportunity for me to expand my knowledge, strengthen my problem-solving abilities, and lay a solid foundation for my career in software development."
+description = "During this time, I've learned to work with technologies like Riverpod, BLoC, Freezed, JsonSerializable, and I've delved into clean architecture, implemented animations, and worked with websockets and streams. Every day is an opportunity to grow and learn as I build solutions in the exciting world of mobile programming."
 
 ############## Skills config ####################
 #################################################
