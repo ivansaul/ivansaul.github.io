@@ -37,3 +37,11 @@ subtitle = "Exploring Dart Records and their syntax for returning multiple value
 datetime = "2024-02-19"
 image = "https://i.imgur.com/IJM5GNe.jpg"
 url = "https://ivansaul.github.io/wiki/Programing/Dart/Records"
+
+[[post]]
+category = "Flutter"
+title = "Custom Icons - Flutter"
+subtitle = "How to Add Custom Icons to Your Flutter Application."
+datetime = "2024-02-19"
+image = "https://i.imgur.com/JH1wCJE.jpg"
+url = "https://ivansaul.github.io/wiki/Programing/Flutter/General/Custom-Icons"
