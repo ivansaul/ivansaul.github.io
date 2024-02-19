@@ -31,7 +31,7 @@ image = "https://i.imgur.com/aKK4V4q.png"
 url = "https://ivansaul.netlify.app/posts/my_collections/apps/internet_sharing.html"
 
 [[post]]
-category = "Dart and Flutter"
+category = "Dart"
 title = "Record type - Dart"
 subtitle = "Exploring Dart Records and their syntax for returning multiple values."
 datetime = "2024-02-19"
