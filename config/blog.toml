@@ -16,7 +16,7 @@ url = "https://ivansaul.netlify.app/posts/programming/python/packages/dotenv.htm
 
 [[post]]
 category = "Linux Apps"
-title = "Screenshot Apps - Linux"
+title = "Linux Screenshot Apps"
 subtitle = "Collection awesome Screenshot applications and tools."
 datetime = "2023-01-03"
 image = "https://i.imgur.com/wsok6mF.jpg"
@@ -24,7 +24,7 @@ url = "https://ivansaul.netlify.app/posts/programming/python/packages/dotenv.htm
 
 [[post]]
 category = "Linux Apps"
-title = "Internet Tethering - Linux"
+title = "Linux Internet Tethering"
 subtitle = "With internet tethering apps, you can easily share your internet connection with other devices no matter where you are."
 datetime = "2023-01-05"
 image = "https://i.imgur.com/aKK4V4q.png"
@@ -32,7 +32,7 @@ url = "https://ivansaul.netlify.app/posts/my_collections/apps/internet_sharing.h
 
 [[post]]
 category = "Dart"
-title = "Record type - Dart"
+title = "Dart Record type"
 subtitle = "Exploring Dart Records and their syntax for returning multiple values."
 datetime = "2024-02-19"
 image = "https://i.imgur.com/IJM5GNe.jpg"
@@ -40,7 +40,7 @@ url = "https://ivansaul.github.io/wiki/Programing/Dart/Records"
 
 [[post]]
 category = "Flutter"
-title = "Custom Icons - Flutter"
+title = "Flutter Custom Icons"
 subtitle = "How to Add Custom Icons to Your Flutter Application."
 datetime = "2024-02-19"
 image = "https://i.imgur.com/JH1wCJE.jpg"
