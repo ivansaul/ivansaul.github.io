@@ -45,3 +45,11 @@ subtitle = "How to Add Custom Icons to Your Flutter Application."
 datetime = "2024-02-19"
 image = "https://i.imgur.com/JH1wCJE.jpg"
 url = "https://ivansaul.github.io/wiki/Programming/Flutter/General/Custom-Icons"
+
+[[post]]
+category = "Dart"
+title = "Dart Useful Methods"
+subtitle = "A collection of useful Dart methods with examples."
+datetime = "2024-03-01"
+image = "https://i.imgur.com/ry6DbkM.png"
+url = "https://ivansaul.github.io/wiki/Programming/Dart/Useful-Methods"
