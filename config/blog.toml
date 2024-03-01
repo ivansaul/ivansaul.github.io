@@ -1,34 +1,10 @@
 [[post]]
 category = "Python"
-title = "Using Python in Quarto"
-subtitle = "Quarto supports executable Python code blocks within markdown."
-datetime = "2022-12-28"
-image = "https://i.imgur.com/4FF0DWc.png"
-url = "https://ivansaul.netlify.app/posts/my_collections/apps/internet_sharing.html"
-
-[[post]]
-category = "Python"
 title = "Python environment variables"
 subtitle = "Interacting with environment variables in Python for app configuration and secrets."
 datetime = "2023-01-05"
 image = "https://i.imgur.com/CgUGNaS.png"
 url = "https://ivansaul.github.io/wiki/Programming/Python/General/Python-environment-variables"
-
-[[post]]
-category = "Linux Apps"
-title = "Linux Screenshot Apps"
-subtitle = "Collection awesome Screenshot applications and tools."
-datetime = "2023-01-03"
-image = "https://i.imgur.com/wsok6mF.jpg"
-url = "https://ivansaul.netlify.app/posts/programming/python/packages/dotenv.html"
-
-[[post]]
-category = "Linux Apps"
-title = "Linux Internet Tethering"
-subtitle = "With internet tethering apps, you can easily share your internet connection with other devices no matter where you are."
-datetime = "2023-01-05"
-image = "https://i.imgur.com/aKK4V4q.png"
-url = "https://ivansaul.netlify.app/posts/my_collections/apps/internet_sharing.html"
 
 [[post]]
 category = "Dart"
