@@ -12,7 +12,7 @@ title = "Python environment variables"
 subtitle = "Interacting with environment variables in Python for app configuration and secrets."
 datetime = "2023-01-05"
 image = "https://i.imgur.com/CgUGNaS.png"
-url = "https://ivansaul.netlify.app/posts/programming/python/packages/dotenv.html"
+url = "https://ivansaul.github.io/wiki/Programming/Python/General/Python-environment-variables"
 
 [[post]]
 category = "Linux Apps"
