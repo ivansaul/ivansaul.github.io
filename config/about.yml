@@ -1,0 +1,72 @@
+HEADER:
+  label: "About me"
+
+PRESENTATION:
+  description: |
+    I am a passionate mobile developer specializing in Flutter and SwiftUI, dedicated to building intuitive, high-performance applications with elegant user interfaces. Over time, I have developed a strong foundation in Dart, Flutter, Swift, and SwiftUI, constantly refining my skills to create seamless user experiences.
+
+    Eager to take on new challenges, I thrive in dynamic environments where innovation and learning go hand in hand. My goal is to contribute to high-quality applications while continuously growing as a developer.
+
+DOING:
+  enabled: true
+  label: "What I'm Doing"
+  items:
+    - title: "Mobile Apps"
+      icon: "config/assets/icons/mobile.svg"
+      description: "Building high-performance iOS and Android applications with Flutter and SwiftUI."  
+    - title: "Scripting"
+      icon: "config/assets/icons/code.svg"
+      description: "Enhancing efficiency through automation and scripting with Python."  
+    - title: "UI/UX Design"
+      icon: "config/assets/icons/compass.svg"
+      description: "Crafting intuitive and visually engaging user interfaces for seamless experiences."  
+    - title: "Web Development"
+      icon: "config/assets/icons/laptop-code.svg"
+      description: "Developing high-quality, responsive websites with modern technologies."  
+
+SKILLS:
+  enabled: true
+  label: "Soft Skills"
+  items:
+    - title: "Fast Learner"
+      icon: "config/assets/icons/bolt.svg"
+      description: "I have the ability to quickly acquire new knowledge and adapt to changing technological environments."
+    - title: "Teamwork"
+      icon: "config/assets/icons/user.svg"
+      description: "I collaborate effectively in multidisciplinary projects and communicate clearly with team members."
+    - title: "Problem Solving"
+      icon: "config/assets/icons/gear.svg"
+      description: "I am creative and efficient in identifying and solving technical problems."
+    - title: "Effective Communication"
+      icon: "config/assets/icons/comment.svg"
+      description: "I have the skill to convey ideas clearly and concisely, both technically and non-technically."
+
+TECHNOLOGIES:
+  enabled: true
+  label: "Tech Experience"
+  items:
+    - title: "Python"
+      icon: "config/assets/icons/python.svg"
+    - title: "Flutter"
+      icon: "config/assets/icons/flutter.svg"
+    - title: "Git"
+      icon: "config/assets/icons/git.svg"
+    - title: "Figma"
+      icon: "config/assets/icons/figma.svg"
+    - title: "Firebase"
+      icon: "config/assets/icons/firebase.svg"
+    - title: "Pandas"
+      icon: "config/assets/icons/pandas.svg"
+    - title: "MongoDB"
+      icon: "config/assets/icons/mongodb.svg"
+    - title: "Dart"
+      icon: "config/assets/icons/dart.svg"
+    - title: "HTML"
+      icon: "config/assets/icons/html.svg"
+    - title: "AI"
+      icon: "config/assets/icons/ai.svg"
+    - title: "Jupyter"
+      icon: "config/assets/icons/jupyter.svg"
+    - title: "Linux"
+      icon: "config/assets/icons/linux.svg"
+
