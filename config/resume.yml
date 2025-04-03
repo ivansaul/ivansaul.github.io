@@ -1,0 +1,73 @@
+HEADER:
+  label: "Resume"
+
+EDUCATION:
+  enabled: true
+  label: "Education"
+  items:
+    - period: "2013 — 2018"
+      institution: "National University of Engineering - UNI"
+      description: "Faculty of Geological, Mining, and Metallurgical Engineering."
+    - period: "2015 — 2016"
+      institution: "CEPS - UNI"
+      description: "Object-Oriented Programming with Python and C++."
+    - period: "2016 — 2017"
+      institution: "Python Web Scraping Bootcamp - Udemy"
+      description: "Specialized training in web scraping, web crawling, and automation using Python, Selenium, and BeautifulSoup."
+    - period: "Dec 2022 - Feb 2023"
+      institution: "Flutter Mobile - Udemy"
+      description: "Fundamentals of Flutter architecture, UI design, and interactive features for iOS and Android."
+    - period: "Mar 2023 - Ongoing"
+      institution: "Flutter State Management with Riverpod/Bloc"
+      description: "Ongoing study of state management techniques using Riverpod and Bloc in Flutter."
+
+EXPERIENCE:
+  enabled: true
+  label: "Experience"
+  items:
+    - period: "Nov 2018 — Aug 2019"
+      position: "Mining Planning - Buenaventura Mining Company"
+      description: "Developed Python-based applications in Minesight to automate block handling, improving efficiency and accuracy in mining planning."
+    - period: "Sep 2019 — Sep 2021"
+      position: "Planning and Productivity - Volcan Mining Company"
+      description: "Optimized blasting processes and implemented cost-reduction strategies, reducing explosives consumption in mining operations."
+    - period: "Oct 2021 — Jan 2023"
+      position: "Mine Operations Supervisor - Alpayana Mining Company"
+      description: "Led and coordinated daily mining operations, ensuring efficiency and safety among production teams."
+    - period: "May 2023 — Present"
+      position: "Junior Flutter Developer - NOA Experience Colombia"
+      description: "Worked with Riverpod, BLoC, Freezed, and JsonSerializable, applying clean architecture, animations, websockets, and streams in mobile development."
+
+LANGUAGES:
+  enabled: true
+  display_progress_bars: false
+  display_percentage_values: false
+  label: "Languages"
+  items:
+    - language: "Spanish"
+      proficiency: "100%"
+    - language: "English"
+      proficiency: "60%"
+    - language: "Quechua"
+      proficiency: "80%"
+
+SKILLS:
+  enabled: true
+  display_progress_bars: false
+  display_percentage_values: false
+  label: "My Skills"
+  items:
+    - skill: "Flutter"
+      proficiency: "60%"
+    - skill: "Python" 
+      proficiency: "70%"
+    - skill: "Git" 
+      proficiency: "65%"
+    - skill: "Dart" 
+      proficiency: "60%"
+    - skill: "HTML/CSS" 
+      proficiency: "60%"
+    - skill: "Figma" 
+      proficiency: "60%"
+    - skill: "Adobe Illustrator" 
+      proficiency: "70%"

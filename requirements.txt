@@ -1,2 +1,7 @@
 jinja2
-toml
+toml 
+aiohttp
+PyYAML
+rich
+python-frontmatter
+pydantic
