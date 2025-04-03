@@ -1,0 +1,41 @@
+name: Sync
+
+on:
+  schedule:
+    - cron: "0 0 */3 * *"
+  
+  workflow_dispatch:
+
+jobs:
+  sync-blog:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+		
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install Poetry
+        shell: bash
+        run: pipx install poetry
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'poetry'
+      
+      - name: Install dependencies
+        run: poetry install --with=dev
+       
+      - name: Sync blog.yml
+        run: poetry run python blog.py
+      
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: sync blog.yml
+          file_pattern: config/blog.yml
+  
