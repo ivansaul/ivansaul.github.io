@@ -44,13 +44,6 @@ POSTS:
     image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/swiftui-text-banner.avif"
     url: "https://ivansaul.github.io/blog/swiftui/getting-started/swiftui-text"
 
-  - title: "How to Add Custom Fonts in SwiftUI"
-    category: "SwiftUI"
-    subtitle: "Transform the look of your SwiftUI app by adding custom fonts! This step-by-step guide will show you how to easily integrate and use your favorite fonts, giving your app a unique and stylish edge."
-    published: "2024-11-30"
-    image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/swiftui-how-to-add-custom-fonts-in-swiftui-banner.avif"
-    url: "https://ivansaul.github.io/blog/swiftui/continued-learning/how-to-add-custom-fonts-in-swiftui"
-
   - title: "Extensions in Swift"
     category: "Swift"
     subtitle: "Discover the power of Swift extensions to enhance existing types with new methods, properties, and initializers. Learn how to customize and expand your code effortlessly while keeping it clean and modular."
@@ -64,4 +57,11 @@ POSTS:
     published: "2024-11-30"
     image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/open-ports-on-oracle-cloud-banner.avif"
     url: "https://ivansaul.github.io/blog/linux/guides/open-ports-on-oracle-cloud"
+
+  - title: "How to Add Custom Fonts in SwiftUI"
+    category: "SwiftUI"
+    subtitle: "Transform the look of your SwiftUI app by adding custom fonts! This step-by-step guide will show you how to easily integrate and use your favorite fonts, giving your app a unique and stylish edge."
+    published: "2024-11-30"
+    image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/swiftui-how-to-add-custom-fonts-in-swiftui-banner.avif"
+    url: "https://ivansaul.github.io/blog/swiftui/continued-learning/how-to-add-custom-fonts-in-swiftui"
 
