@@ -30,6 +30,13 @@ POSTS:
     image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/teldrive-free-unlimited-cloud-storage-banner.avif"
     url: "https://ivansaul.github.io/blog/apps/drive/teldrive-free-unlimited-cloud-storage"
 
+  - title: "SwiftUI Text"
+    category: "SwiftUI"
+    subtitle: "Text views are one of the most fundamental and frequently used components in any SwiftUI user interface. They enable us to display text in our apps, serving as labels, titles, descriptions, and much more."
+    published: "2024-12-02"
+    image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/swiftui-text-banner.avif"
+    url: "https://ivansaul.github.io/blog/swiftui/getting-started/swiftui-text"
+
   - title: "Xcode How to Customize File Headers"
     category: "Apps"
     subtitle: "Default headers in Xcode are useful, but not always enough. Learn how to add personalized details like repository links, version numbers, or any other information you need."
@@ -37,12 +44,12 @@ POSTS:
     image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/xcode-how-to-customize-file-headers-banner.avif"
     url: "https://ivansaul.github.io/blog/apps/xcode/xcode-how-to-customize-file-headers"
 
-  - title: "SwiftUI Text"
-    category: "SwiftUI"
-    subtitle: "Text views are one of the most fundamental and frequently used components in any SwiftUI user interface. They enable us to display text in our apps, serving as labels, titles, descriptions, and much more."
-    published: "2024-12-02"
-    image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/swiftui-text-banner.avif"
-    url: "https://ivansaul.github.io/blog/swiftui/getting-started/swiftui-text"
+  - title: "Open Ports on Oracle Cloud"
+    category: "Linux"
+    subtitle: "Learn how to open ports on an Oracle Cloud Instance to allow incoming traffic on specific ports."
+    published: "2024-11-30"
+    image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/open-ports-on-oracle-cloud-banner.avif"
+    url: "https://ivansaul.github.io/blog/linux/guides/open-ports-on-oracle-cloud"
 
   - title: "Extensions in Swift"
     category: "Swift"
@@ -57,11 +64,4 @@ POSTS:
     published: "2024-11-30"
     image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/swiftui-how-to-add-custom-fonts-in-swiftui-banner.avif"
     url: "https://ivansaul.github.io/blog/swiftui/continued-learning/how-to-add-custom-fonts-in-swiftui"
-
-  - title: "Open Ports on Oracle Cloud"
-    category: "Linux"
-    subtitle: "Learn how to open ports on an Oracle Cloud Instance to allow incoming traffic on specific ports."
-    published: "2024-11-30"
-    image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/open-ports-on-oracle-cloud-banner.avif"
-    url: "https://ivansaul.github.io/blog/linux/guides/open-ports-on-oracle-cloud"
 
