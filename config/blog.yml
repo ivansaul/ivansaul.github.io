@@ -44,6 +44,13 @@ POSTS:
     image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/xcode-how-to-customize-file-headers-banner.avif"
     url: "https://ivansaul.github.io/blog/apps/xcode/xcode-how-to-customize-file-headers"
 
+  - title: "Open Ports on Oracle Cloud"
+    category: "Linux"
+    subtitle: "Learn how to open ports on an Oracle Cloud Instance to allow incoming traffic on specific ports."
+    published: "2024-11-30"
+    image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/open-ports-on-oracle-cloud-banner.avif"
+    url: "https://ivansaul.github.io/blog/linux/guides/open-ports-on-oracle-cloud"
+
   - title: "Extensions in Swift"
     category: "Swift"
     subtitle: "Discover the power of Swift extensions to enhance existing types with new methods, properties, and initializers. Learn how to customize and expand your code effortlessly while keeping it clean and modular."
@@ -57,11 +64,4 @@ POSTS:
     published: "2024-11-30"
     image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/swiftui-how-to-add-custom-fonts-in-swiftui-banner.avif"
     url: "https://ivansaul.github.io/blog/swiftui/continued-learning/how-to-add-custom-fonts-in-swiftui"
-
-  - title: "Open Ports on Oracle Cloud"
-    category: "Linux"
-    subtitle: "Learn how to open ports on an Oracle Cloud Instance to allow incoming traffic on specific ports."
-    published: "2024-11-30"
-    image: "https://raw.githubusercontent.com/ivansaul/blog/master/docs/assets/images/open-ports-on-oracle-cloud-banner.avif"
-    url: "https://ivansaul.github.io/blog/linux/guides/open-ports-on-oracle-cloud"
 
